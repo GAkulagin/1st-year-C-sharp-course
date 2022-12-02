@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №4\Laba4\bin\Debug\netcoreapp2.1\Laba4.deps.json
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №4\Laba4\bin\Debug\netcoreapp2.1\Laba4.runtimeconfig.json
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №4\Laba4\bin\Debug\netcoreapp2.1\Laba4.runtimeconfig.dev.json
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №4\Laba4\bin\Debug\netcoreapp2.1\Laba4.dll
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №4\Laba4\bin\Debug\netcoreapp2.1\Laba4.pdb
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №4\Laba4\obj\Debug\netcoreapp2.1\Laba4.csprojAssemblyReference.cache
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №4\Laba4\obj\Debug\netcoreapp2.1\Laba4.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №4\Laba4\obj\Debug\netcoreapp2.1\Laba4.AssemblyInfo.cs
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №4\Laba4\obj\Debug\netcoreapp2.1\Laba4.dll
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №4\Laba4\obj\Debug\netcoreapp2.1\Laba4.pdb

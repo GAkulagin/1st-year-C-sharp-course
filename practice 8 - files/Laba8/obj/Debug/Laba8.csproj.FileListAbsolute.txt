@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №8\Laba8\bin\Debug\Laba8.exe.config
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №8\Laba8\bin\Debug\Laba8.exe
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №8\Laba8\bin\Debug\Laba8.pdb
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №8\Laba8\obj\Debug\Laba8.csprojAssemblyReference.cache
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №8\Laba8\obj\Debug\Laba8.AddStudentForm.resources
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №8\Laba8\obj\Debug\Laba8.MainForm.resources
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №8\Laba8\obj\Debug\Laba8.Properties.Resources.resources
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №8\Laba8\obj\Debug\Laba8.csproj.GenerateResource.cache
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №8\Laba8\obj\Debug\Laba8.exe
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №8\Laba8\obj\Debug\Laba8.pdb
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №8\Laba8\obj\Debug\Laba8.SearchAndChangeForm.resources
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №8\Laba8\obj\Debug\Laba8.RewriteForm.resources

@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №5\Laba5\bin\Debug\netcoreapp3.0\Laba5.exe
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №5\Laba5\bin\Debug\netcoreapp3.0\Laba5.deps.json
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №5\Laba5\bin\Debug\netcoreapp3.0\Laba5.runtimeconfig.json
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №5\Laba5\bin\Debug\netcoreapp3.0\Laba5.runtimeconfig.dev.json
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №5\Laba5\bin\Debug\netcoreapp3.0\Laba5.dll
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №5\Laba5\bin\Debug\netcoreapp3.0\Laba5.pdb
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №5\Laba5\obj\Debug\netcoreapp3.0\Laba5.csprojAssemblyReference.cache
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №5\Laba5\obj\Debug\netcoreapp3.0\Laba5.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №5\Laba5\obj\Debug\netcoreapp3.0\Laba5.AssemblyInfo.cs
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №5\Laba5\obj\Debug\netcoreapp3.0\Laba5.dll
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №5\Laba5\obj\Debug\netcoreapp3.0\Laba5.pdb

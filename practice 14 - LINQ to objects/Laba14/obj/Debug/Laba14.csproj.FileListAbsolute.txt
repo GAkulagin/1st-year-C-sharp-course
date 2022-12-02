@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №14\Laba14\bin\Debug\Laba14.exe.config
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №14\Laba14\bin\Debug\Laba14.exe
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №14\Laba14\bin\Debug\Laba14.pdb
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №14\Laba14\bin\Debug\MyLibrary.dll
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №14\Laba14\bin\Debug\MyLibrary.pdb
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №14\Laba14\obj\Debug\Laba14.csprojAssemblyReference.cache
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №14\Laba14\obj\Debug\Laba14.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №14\Laba14\obj\Debug\Laba14.csproj.CopyComplete
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №14\Laba14\obj\Debug\Laba14.exe
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №14\Laba14\obj\Debug\Laba14.pdb

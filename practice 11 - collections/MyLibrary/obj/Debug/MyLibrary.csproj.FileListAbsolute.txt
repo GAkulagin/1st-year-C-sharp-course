@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №11\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №11\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №11\MyLibrary\obj\Debug\MyLibrary.csprojAssemblyReference.cache
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №11\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\User\Desktop\учеба\Программирование\Лабораторная работа №11\MyLibrary\obj\Debug\MyLibrary.pdb
